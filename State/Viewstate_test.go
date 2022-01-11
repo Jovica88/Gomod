@@ -1,6 +1,6 @@
-package main
+package State
 
-func ViewState() string{
+func ViewState() string {
 	return "[kylling rev korn mann ---\\ \\__/ _________________/---]"
 
 }
